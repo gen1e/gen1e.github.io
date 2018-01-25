@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hi! I'm Regina Locicero, or "Genie" most of the time. I'm a 3rd year Web and Mobile Computing student at RIT. I'm a developer that specializes in android mobile development but I also do Fullstack as well. I really like open source and tabletop RPGs. Currently I'm taking Humanitarian Free and Open Source Software course (or HFOSS) and this is the blog for that course.
