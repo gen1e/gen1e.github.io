@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Begin Jekyll SEO tag v2.4.0 -->
+<title>Litreview 2: NPM’s Epic Bug and Why Digital Infrastructure is Crumbling | Genie on FOSS</title>
+<meta name="generator" content="Jekyll v3.7.2" />
+<meta property="og:title" content="Litreview 2: NPM’s Epic Bug and Why Digital Infrastructure is Crumbling" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="NPM Bug Our first reading was about a problematic NPM bug where Linux file permissions were being altered, that was written as an issue by the GitHub user Crunkle on February 22, 2018. The best way to describe the seriousness of the bug was the description that “People experiencing this bug will likely have to fully reinstall their system due to this update.” Yeah that’s a pretty big problem. Other than the bug itself, there was a lot of backlash in the comments of this issue because NPM made the 5.7.0 seem like a release as opposed to a pre-release which meant some users got confused and put this very broken code on production systems, which would then crash because of the issues. This set off a bit of a war in the comments. There were people calling each other incompetent because of their production upgrading procedures. Then there were people being very upset at and sometimes rude to the NPM devs for allowing such a big bug to be allowed in and making 5.7.0 look like a release. It got bad enough that the main collaborators locked the issue thread to collaborators. The issue was eventually fixed and 5.7.1 was released and 5.7.0 taken down." />
+<meta property="og:description" content="NPM Bug Our first reading was about a problematic NPM bug where Linux file permissions were being altered, that was written as an issue by the GitHub user Crunkle on February 22, 2018. The best way to describe the seriousness of the bug was the description that “People experiencing this bug will likely have to fully reinstall their system due to this update.” Yeah that’s a pretty big problem. Other than the bug itself, there was a lot of backlash in the comments of this issue because NPM made the 5.7.0 seem like a release as opposed to a pre-release which meant some users got confused and put this very broken code on production systems, which would then crash because of the issues. This set off a bit of a war in the comments. There were people calling each other incompetent because of their production upgrading procedures. Then there were people being very upset at and sometimes rude to the NPM devs for allowing such a big bug to be allowed in and making 5.7.0 look like a release. It got bad enough that the main collaborators locked the issue thread to collaborators. The issue was eventually fixed and 5.7.1 was released and 5.7.0 taken down." />
+<link rel="canonical" href="http://localhost:4000/hfoss/2018/03/05/litreview2.html" />
+<meta property="og:url" content="http://localhost:4000/hfoss/2018/03/05/litreview2.html" />
+<meta property="og:site_name" content="Genie on FOSS" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-03-05T00:59:00-05:00" />
+<script type="application/ld+json">
+{"description":"NPM Bug Our first reading was about a problematic NPM bug where Linux file permissions were being altered, that was written as an issue by the GitHub user Crunkle on February 22, 2018. The best way to describe the seriousness of the bug was the description that “People experiencing this bug will likely have to fully reinstall their system due to this update.” Yeah that’s a pretty big problem. Other than the bug itself, there was a lot of backlash in the comments of this issue because NPM made the 5.7.0 seem like a release as opposed to a pre-release which meant some users got confused and put this very broken code on production systems, which would then crash because of the issues. This set off a bit of a war in the comments. There were people calling each other incompetent because of their production upgrading procedures. Then there were people being very upset at and sometimes rude to the NPM devs for allowing such a big bug to be allowed in and making 5.7.0 look like a release. It got bad enough that the main collaborators locked the issue thread to collaborators. The issue was eventually fixed and 5.7.1 was released and 5.7.0 taken down.","@type":"BlogPosting","url":"http://localhost:4000/hfoss/2018/03/05/litreview2.html","headline":"Litreview 2: NPM’s Epic Bug and Why Digital Infrastructure is Crumbling","dateModified":"2018-03-05T00:59:00-05:00","datePublished":"2018-03-05T00:59:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/hfoss/2018/03/05/litreview2.html"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Genie on FOSS" href="/feed.xml">
+  
+</head>
+
+
+  <body>
+
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    <a class="site-title" rel="author" href="/">Genie on FOSS</a>
+
+    
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger">
+          
+            
+            
+          
+            
+            
+            <a class="page-link" href="/about/">About</a>
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+        </div>
+      </nav>
+    
+  </div>
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Litreview 2:  NPM&#39;s Epic Bug and Why Digital Infrastructure is Crumbling</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2018-03-05T00:59:00-05:00" itemprop="datePublished">
+        
+        Mar 5, 2018
+      </time>
+      </p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h2 id="npm-bug">NPM Bug</h2>
+<p>Our first reading was about a problematic <a href="https://github.com/npm/npm/issues/19883">NPM bug</a> where Linux file permissions were being altered, that was written as an issue by the GitHub user Crunkle on February 22, 2018. The best way to describe the seriousness of the bug was the description that “People experiencing this bug will likely have to fully reinstall their system due to this update.” Yeah that’s a pretty big problem. Other than the bug itself, there was a lot of backlash in the comments of this issue because NPM made the 5.7.0 seem like a release as opposed to a pre-release which meant some users got confused and put this very broken code on production systems, which would then crash because of the issues. This set off a bit of a war in the comments. There were people calling each other incompetent because of their production upgrading procedures. Then there were people being very upset at and sometimes rude to the NPM devs for allowing such a big bug to be allowed in and making 5.7.0 look like a release. It got bad enough that the main collaborators locked the issue thread to collaborators. The issue was eventually fixed and 5.7.1 was released and 5.7.0 taken down.</p>
+
+<p>There are some things to be learned from this situation. It seems like the NPM developers need to be more clear about communicating which updates are releases and what is a pre-release. It seems their communication needs to be improved. Though it also seems to be that people got a little too overzealous and contributed more fuel to the fire instead of helping to resolve the situation. The NPM team seems to have handled this the best they could at the time. It’s hard to handle large amounts of backlash and according to the timestamps they handled the matter relatively quickly.</p>
+
+<h2 id="why-digital-infrastructure-is-crumbling-and-foss-is-struggling">Why Digital Infrastructure is Crumbling and FOSS is Struggling</h2>
+<p>Our second reading was <a href="https://github.com/ritjoe/hfoss/blob/master/assets/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure by Nadia Eghbal</a> published on July 14, 2016, from the beginning up to page 77. This is a fascinating read. The author’s main point is that most of the software we know today is built upon open source software. Everything involves software now from out computers and smart-phones to doing regular tasks such as buying things online, paying bills, or going to the doctor. Every business has some sort of tech infrastructure. The overwhelming majority of this software uses something that is open source. Eghbal emphasizes the importance of FOSS as an essential part of our digital infrastructure. She also described the practical aspects of FOSS. Because the software is free developers are able to build applications faster and for a fraction of the cost when proprietary software was dominant. This makes is easier to for startups because of the dramatically reduced cost. It is also useful for education as the tools are free to use for teaching. As such it is essential to keep those open source projects going. However these FOSS projects are often not seen often because like roads and electricity most people don’t think about who’s managing it when they are using roads to drive their car or turning on a light switch. These projects need funding and contributors to keep going. Eghbal explains how some projects are large enough to get money through companies sponsoring them and through donations. Though some projects are able to sustain themselves through enterprise support or special features they can sell. Besides money there is the problem of getting enough contributors.</p>
+
+<p>The author covers that in open source’s early days there were a roughly an equal amount of people contributing to open source projects as there were those using it. This made the projects sustainable. In recent years there has been a dramatic increase in users and a decrease in people able to contribute. The author also talks about “magpie developers” who want to contribute to the new shiny projects as opposed to the older projects who need help also. Eghbal also describes a problem where some people in the open source community believe that there is a decrease in people able to contributre substantial code to the project. These developers are less experienced and so can’t contribute much code and/or create more work for the other contributors. This is where I disagree a bit. Although there are definitely people who are less experienced, it’s important to realize that all of us were at that stage at some point and to be compassionate about that. The key is to make sure a project is a welcoming community and helps to encourage those new developers to hone their skills and so will contribute better and better code as time goes on. This problem can be exacerbated by people who just see themselves as users and so only demand things of the project team. This doesn’t mean that those who are trying to contribute should be valued so much less so because their skills are not coding. Projects need to invest in new developers.</p>
+
+<p>The other problem often has to do with depending on the one or two maintainers to be the sole administrative force of the project while doing a lot of the coding. It seems that there are quite a few projects need to have better organization. What doesn’t help is that those who start the project are often the people who just want to code not be a project manager. This can be where people who don’t code or who don’t code that much can help out with open source.</p>
+
+<p>Overall I really enjoyed this read about issues in FOSS and the wider effects of that although I didn’t quite agree with everything the author said.</p>
+
+  </div>
+
+  
+
+  <a class="u-url" href="/hfoss/2018/03/05/litreview2.html" hidden></a>
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Genie on FOSS</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            
+              Genie on FOSS
+            
+            </li>
+            
+            <li><a class="u-email" href="mailto:rtl3971@rit.edu">rtl3971@rit.edu</a></li>
+            
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</ul>
+
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>Regina&#39;s blog for HFOSS class.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
