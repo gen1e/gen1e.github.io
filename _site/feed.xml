@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-07T00:00:26-05:00</updated><id>http://localhost:4000/</id><title type="html">Genie on FOSS</title><subtitle>Regina's blog for HFOSS class.</subtitle><entry><title type="html">The Magic of Markdown</title><link href="http://localhost:4000/hfoss/2018/03/06/the-magic-of-markdown.html" rel="alternate" type="text/html" title="The Magic of Markdown" /><published>2018-03-06T00:00:00-05:00</published><updated>2018-03-06T00:00:00-05:00</updated><id>http://localhost:4000/hfoss/2018/03/06/the-magic-of-markdown</id><content type="html" xml:base="http://localhost:4000/hfoss/2018/03/06/the-magic-of-markdown.html">&lt;p&gt;So if you haven’t noticed so far in this blog, I’m a bit of a nerd. I really like playing tabletop RPGs, and I’m particularly fond of D&amp;amp;D 5e. I’m currently DMing a campaign for some of my friends (9 of them in fact, and yes I’m a badass DM for taking on that big of a group). Now I don’t always plan for my sessions (sometimes I use previous notes) but when I do I use markdown.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-07T09:46:29-05:00</updated><id>http://localhost:4000/</id><title type="html">Genie on FOSS</title><subtitle>Regina's blog for HFOSS class.</subtitle><entry><title type="html">Quiz1</title><link href="http://localhost:4000/hfoss/2018/03/07/quiz1.html" rel="alternate" type="text/html" title="Quiz1" /><published>2018-03-07T09:00:00-05:00</published><updated>2018-03-07T09:00:00-05:00</updated><id>http://localhost:4000/hfoss/2018/03/07/quiz1</id><content type="html" xml:base="http://localhost:4000/hfoss/2018/03/07/quiz1.html">&lt;p&gt;1) Expanding each acronym&lt;/p&gt;
+
+&lt;p&gt;1.1) IRC: Internet Relay Chat&lt;/p&gt;
+
+&lt;p&gt;1.2) FOSS: Free and Open Source Software&lt;/p&gt;
+
+&lt;p&gt;1.3) OLPC: One Laptop Per Child&lt;/p&gt;
+
+&lt;p&gt;1.4) PR: Pull Request&lt;/p&gt;
+
+&lt;p&gt;Bonus: GNU: GNU’s Not Unix&lt;/p&gt;
+
+&lt;p&gt;2) What is the name of the visrion control system we use in this course?
+git&lt;/p&gt;
+
+&lt;p&gt;Bonus: SVN: Subversion&lt;/p&gt;
+
+&lt;p&gt;3) Please give the one work name for the interface used in the OLPC computers &amp;amp; our VMs:
+Sugar&lt;/p&gt;
+
+&lt;p&gt;4) Bonus: What is the short, two-letter name for the OLPC computers used in the final project for this class?
+XO&lt;/p&gt;
+
+&lt;p&gt;5)We refer to sites that host source code as “forges.” What is the name for the primary forge used in this course?
+GitHub&lt;/p&gt;
+
+&lt;p&gt;6) Bonus: name the other forge we have used:
+GitLabs&lt;/p&gt;
+
+&lt;p&gt;7) Bonus: name another forge, one we have not used in this course.
+BitBucket&lt;/p&gt;
+
+&lt;h2 id=&quot;multiple-choice&quot;&gt;Multiple Choice&lt;/h2&gt;
+&lt;p&gt;8) The GitHub-specific term to describe the process in which, starting from one repository hosted at GitHub, one creates another repository, also hosted at GitHub, but under the control of a different user account.&lt;/p&gt;
+
+&lt;p&gt;d) fork&lt;/p&gt;
+
+&lt;p&gt;9) A collection of related commit objects&lt;/p&gt;
+
+&lt;p&gt;a) repository&lt;/p&gt;
+
+&lt;p&gt;10) A separate, but related, repository from which one may fetch or pull changes into one’s own working copy, and to which in some instances one might have permission to push changes from one’s own working copy.&lt;/p&gt;
+
+&lt;p&gt;c) remote&lt;/p&gt;
+
+&lt;p&gt;11) The general term in git for making an exact, working copy of another repository in which changes can be tracked separately between the two versions.&lt;/p&gt;
+
+&lt;p&gt;e) clone&lt;/p&gt;
+
+&lt;p&gt;12) A namespace in which one can track changes to a set of files within a given repository. This term applies both to the action and to the result of the action. Comparisons (‘diffs’ or patches) can be made between different such namespaces.&lt;/p&gt;
+
+&lt;p&gt;b) branch&lt;/p&gt;
+
+&lt;p&gt;13) Consider the following (+1 for each correct, -1 for each incorrect):&lt;/p&gt;
+
+&lt;p&gt;a) e59b627&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;b) 451.867&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;c) cf153fb32&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;d) dca_079&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;e) 9539807&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;f) DB6A60A&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;g) 614@1d4&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;h) be34fb47c60d&lt;/p&gt;
+
+&lt;p&gt;Looking just at the string of non-space characters to the right of the close-parenthesis …&lt;/p&gt;
+
+&lt;p&gt;List which of these could be a valid commit identifier?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;a&lt;/li&gt;
+  &lt;li&gt;c&lt;/li&gt;
+  &lt;li&gt;e&lt;/li&gt;
+  &lt;li&gt;h&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;14) We’ve discussed “the four R’s” as a shorthand for the freedoms attached to software for it to be considered “free” or “open source”. List or describe each. (eg, if you can remember the “r” word you can just give that. If you cannot remember the term, but can describe the freedom involved, that also counts). Various “r” words are roughly synonymous for some of the freedoms, but we’re counting freedoms here, not synonyms so if you give two (or more) terms for the same freedom, it only counts once. For the purposes of this quiz, “remix” does not count as describing any of them. (1pt each)&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10.1) Run
+
+10.2) Read (the source)
+
+10.3) Adapt to your liking, being able to change the software to fit your needs.
+
+10.4) Redistribute
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">1) Expanding each acronym</summary></entry><entry><title type="html">The Magic of Markdown</title><link href="http://localhost:4000/hfoss/2018/03/06/the-magic-of-markdown.html" rel="alternate" type="text/html" title="The Magic of Markdown" /><published>2018-03-06T00:00:00-05:00</published><updated>2018-03-06T00:00:00-05:00</updated><id>http://localhost:4000/hfoss/2018/03/06/the-magic-of-markdown</id><content type="html" xml:base="http://localhost:4000/hfoss/2018/03/06/the-magic-of-markdown.html">&lt;p&gt;So if you haven’t noticed so far in this blog, I’m a bit of a nerd. I really like playing tabletop RPGs, and I’m particularly fond of D&amp;amp;D 5e. I’m currently DMing a campaign for some of my friends (9 of them in fact, and yes I’m a badass DM for taking on that big of a group). Now I don’t always plan for my sessions (sometimes I use previous notes) but when I do I use markdown.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/i-dont-always-dnd.jpg&quot; alt=&quot;I don't always plan for my D&amp;amp;D sessions but when I do, I do it in Markdown&quot; /&gt;&lt;/p&gt;
 
@@ -95,12 +185,4 @@ Christian Martin [3:11 PM]
 
 &lt;p&gt;https://www.nytimes.com/2015/02/26/your-money/putting-a-dent-in-college-costs-with-open-source-textbooks.html&lt;/p&gt;
 
-&lt;p&gt;https://www.teachthought.com/technology/5-sources-of-open-source-textbooks/&lt;/p&gt;</content><author><name></name></author><summary type="html">This semester I’m taking College Physics II. Interestingly the textbook is not required, though highly suggested, and an alternative free and open source textbook was offered. This book is the College Physics textbook from OpenStax. Sometimes I have trouble paying attention in class when the topic we are on is boring, so I figured I would try to read ahead so I could do questions or half pay attention in class. Although I already had the proprietary book for the class (Physics 5th Edition by James S. Walker) from the previous class in the sequence, College Physics I, I decided to give the open source book a try.</summary></entry><entry><title type="html">Firstflight HFOSS</title><link href="http://localhost:4000/hfoss/2018/01/24/firstflight-hfoss.html" rel="alternate" type="text/html" title="Firstflight HFOSS" /><published>2018-01-24T11:04:54-05:00</published><updated>2018-01-24T11:04:54-05:00</updated><id>http://localhost:4000/hfoss/2018/01/24/firstflight-hfoss</id><content type="html" xml:base="http://localhost:4000/hfoss/2018/01/24/firstflight-hfoss.html">&lt;h2 id=&quot;hello&quot;&gt;Hello!&lt;/h2&gt;
-
-&lt;p&gt;Wooo! Website exists, very exciting. This site is built on Jekyll  and is hosted on GitHub Pages. For the sake of posterity some advice on setting up a jekyll site (talking to you future me who has forgotten things work!). Once you get it &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;installed on your OS&lt;/a&gt; and have your &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages repo setup&lt;/a&gt;, then you probably want to pick a theme. If you go to your settings for the pages repo you will find a nifty option for themes, that include previews. If you want to change the theme and see it locally then change the theme section in your _config.yaml file to the theme name your using. Then if you look in your Gemfile you will find helpful comments that explain you uncomment the gem “github-pages” line and comment out the jekyll gem. If you don’t comment out the jekyll gem it will yell at you, as I found out the hard way by not reading fully.&lt;/p&gt;
-
-&lt;p&gt;If you want to use an usppported theme or get screwed up by GitHub’s way of doing themes (which happened to me) you can just remove the _sites directory from your .gitignore file and then add than to the repo. GitHub Pages will pull from the generated _sites folder.&lt;/p&gt;
-
-&lt;h2 id=&quot;firstflight&quot;&gt;Firstflight&lt;/h2&gt;
-
-&lt;p&gt;As for the other things in the &lt;a href=&quot;https://github.com/ritjoe/hfoss/wiki/firstflight&quot;&gt;Firstflight assignment&lt;/a&gt;; I use Matrix now to connect to the IRC channels I’m in including #rit, #rit-foss, and #ritlug. If you too want to get setup with Matrix I suggest using &lt;a href=&quot;https://opensource.com/article/17/5/introducing-riot-IRC&quot;&gt;Justin Flory’s tutorial&lt;/a&gt; as that’s how I got setup. My username there is gen1e. I’m already on the HFOSS mailing list and I have a &lt;a href=&quot;https://github.com/reginatl&quot;&gt;GitHub account&lt;/a&gt;. I’ve also &lt;a href=&quot;https://github.com/ReginaTL/hfoss&quot;&gt;just forked the HFOSS repo&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Hello!</summary></entry></feed>
+&lt;p&gt;https://www.teachthought.com/technology/5-sources-of-open-source-textbooks/&lt;/p&gt;</content><author><name></name></author><summary type="html">This semester I’m taking College Physics II. Interestingly the textbook is not required, though highly suggested, and an alternative free and open source textbook was offered. This book is the College Physics textbook from OpenStax. Sometimes I have trouble paying attention in class when the topic we are on is boring, so I figured I would try to read ahead so I could do questions or half pay attention in class. Although I already had the proprietary book for the class (Physics 5th Edition by James S. Walker) from the previous class in the sequence, College Physics I, I decided to give the open source book a try.</summary></entry></feed>
