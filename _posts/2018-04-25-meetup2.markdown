@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BrickHack 3: 2018"
+date:   2018-04-25 00:01:00 -0500
+categories: hfoss
+---
+I attended RIT's main hackathon BrickHack this year. I did not hack on a project but instead worked on homework. I did however talk to a few people who were there. I saw some friends from RIT's MAGIC Center who I stopped to talk to for a bit. I also talked to a friend of mine Stefan Marchhart, was working on a project where he used open source python libraries to visualize music on Philips Hue lights which are able to light up different colors. His project is [on GitHub](https://github.com/Sciguystfm/HueVisualizer) (sadly with no license). He talked to me and the group I was with about it during a 5 am Quiplash game break. 
+
+Now I attended BrickHack with my friends and I spent most of my time watching and helping them make memes. Why? Because the student representatives from Google Cloud Platform decided that they would give sweet, sweet swag to those with the best memes throughout the hackathon. So began The Great BrickHack Meme Wars of 2018. The memes were actually super creative. What was interesting from an open source perspective was that (although no official licensing was involved), it was acceptable, even encouraged, to take someone else's memes and do something different with it. The memes would sometime be a direct response to another. As the night went on the memes would become more and more meta, incorporating almost everyone else's memes. It very much embodies what the creative commons and open source communities strive for; a positive environment to remix and share work to everyone's benefit. Safe to say, anyone in the BrickHack 2018 Google Cloud Platform was incredibly entertained. Also my friends have now covered our apartment in Google Cloud Platform swag. It was a really great time.
