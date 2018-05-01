@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-25T22:48:11-04:00</updated><id>http://localhost:4000/</id><title type="html">Genie on FOSS</title><subtitle>Regina's blog for HFOSS class.</subtitle><entry><title type="html">BrickHack 3: 2018</title><link href="http://localhost:4000/hfoss/2018/04/25/meetup2.html" rel="alternate" type="text/html" title="BrickHack 3: 2018" /><published>2018-04-25T01:01:00-04:00</published><updated>2018-04-25T01:01:00-04:00</updated><id>http://localhost:4000/hfoss/2018/04/25/meetup2</id><content type="html" xml:base="http://localhost:4000/hfoss/2018/04/25/meetup2.html">&lt;p&gt;I attended RIT’s main hackathon BrickHack this year. I did not hack on a project but instead worked on homework. I did however talk to a few people who were there. I saw some friends from RIT’s MAGIC Center who I stopped to talk to for a bit. I also talked to a friend of mine Stefan Marchhart, was working on a project where he used open source python libraries to visualize music on Philips Hue lights which are able to light up different colors. His project is &lt;a href=&quot;https://github.com/Sciguystfm/HueVisualizer&quot;&gt;on GitHub&lt;/a&gt; (sadly with no license). He talked to me and the group I was with about it during a 5 am Quiplash game break.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-01T01:41:07-04:00</updated><id>http://localhost:4000/</id><title type="html">Genie on FOSS</title><subtitle>Regina's blog for HFOSS class.</subtitle><entry><title type="html">WiCHacks 2018</title><link href="http://localhost:4000/hfoss/2018/04/30/meetup1.html" rel="alternate" type="text/html" title="WiCHacks 2018" /><published>2018-04-30T01:00:00-04:00</published><updated>2018-04-30T01:00:00-04:00</updated><id>http://localhost:4000/hfoss/2018/04/30/meetup1</id><content type="html" xml:base="http://localhost:4000/hfoss/2018/04/30/meetup1.html">&lt;p&gt;This year I was thrilled to attend WiCHacks as a participant/volunteer. Due to busy schedules this was the first time I was able to attend Women in Computing’s all-women* hackathon. I participated with a group of friends. Our glorious group name was the &lt;a href=&quot;https://gen1e.github.io/antifreezebears/&quot;&gt;AntiFreeze Bears&lt;/a&gt; (yes there is a story behind the name that we will eventually tell). As noted in &lt;a href=&quot;https://gen1e.github.io/hfoss/2018/02/13/my-love-hate-relationship-with-twine-and-harlowe.html&quot;&gt;one of my previous posts&lt;/a&gt;, we used &lt;a href=&quot;http://twinery.org/&quot;&gt;Twine&lt;/a&gt; to create a choose your own adventure game following Atalanta as she beings freshman year of high school and struggles with female stereotypes when entering her new school’s Robotics Club. The entire game is open source, you can see the code modifications we made on &lt;a href=&quot;https://github.com/gen1e/antifreezebears&quot;&gt;our GitHub&lt;/a&gt;, which is licensed under GPL 3.0. The written story and art assets we made are all licensed under Creative Commons (CC-BY 4.0). I was mostly in charge of writing the script as well as trying to make sure we were on track. Lauren DiDonato was our main web developer who made the website and a lot of the code changes. She also helped to keep us on track. Felix Brink was our designer who made all of our art assets and chose the color scheme. Eleanor Post helped to design the game mechanics and also added some branches to the story as well as revisions to the story.&lt;/p&gt;
+
+&lt;p&gt;We had the idea previous to the hackathon but really hashed everything out when we got there. The GitHub repo has charts that we used to help plan. There were a lot of sticky notes involved with planning and we used a white board to setup a mini kanban board. It was the first hackathon where we all actually did a project instead of homework. Most of us stayed up the whole night or most of the night. That was an adventure. Lauren and I had to stay up late as WiC Committee Head to help hold down the fort. We slept in shifts on the floor. There was a lot of caffeine and energy drinks. At various points in the hackathon I helped here and there with people’s android projects. I remember somewhat vaguely helping with another team’s android app in the wee hours of the morning. The sleep deprivation makes the latter half of the hackathon kind of foggy but we did manage to complete our project and present it for judging. I uploaded the project to this site so you can see our homepage and play our game for yourself. We were really proud of ourselves for managing to create a finished product during WiCHacks and had a whole lot of fun.&lt;/p&gt;
+
+&lt;p&gt;* I would like to note that there were also non-binary participants, one of which was on my team.&lt;/p&gt;</content><author><name></name></author><summary type="html">This year I was thrilled to attend WiCHacks as a participant/volunteer. Due to busy schedules this was the first time I was able to attend Women in Computing’s all-women* hackathon. I participated with a group of friends. Our glorious group name was the AntiFreeze Bears (yes there is a story behind the name that we will eventually tell). As noted in one of my previous posts, we used Twine to create a choose your own adventure game following Atalanta as she beings freshman year of high school and struggles with female stereotypes when entering her new school’s Robotics Club. The entire game is open source, you can see the code modifications we made on our GitHub, which is licensed under GPL 3.0. The written story and art assets we made are all licensed under Creative Commons (CC-BY 4.0). I was mostly in charge of writing the script as well as trying to make sure we were on track. Lauren DiDonato was our main web developer who made the website and a lot of the code changes. She also helped to keep us on track. Felix Brink was our designer who made all of our art assets and chose the color scheme. Eleanor Post helped to design the game mechanics and also added some branches to the story as well as revisions to the story.</summary></entry><entry><title type="html">BrickHack 3: 2018</title><link href="http://localhost:4000/hfoss/2018/04/25/meetup2.html" rel="alternate" type="text/html" title="BrickHack 3: 2018" /><published>2018-04-25T01:01:00-04:00</published><updated>2018-04-25T01:01:00-04:00</updated><id>http://localhost:4000/hfoss/2018/04/25/meetup2</id><content type="html" xml:base="http://localhost:4000/hfoss/2018/04/25/meetup2.html">&lt;p&gt;I attended RIT’s main hackathon BrickHack this year. I did not hack on a project but instead worked on homework. I did however talk to a few people who were there. I saw some friends from RIT’s MAGIC Center who I stopped to talk to for a bit. I also talked to a friend of mine Stefan Marchhart, was working on a project where he used open source python libraries to visualize music on Philips Hue lights which are able to light up different colors. His project is &lt;a href=&quot;https://github.com/Sciguystfm/HueVisualizer&quot;&gt;on GitHub&lt;/a&gt; (sadly with no license). He talked to me and the group I was with about it during a 5 am Quiplash game break.&lt;/p&gt;
 
 &lt;p&gt;Now I attended BrickHack with my friends and I spent most of my time watching and helping them make memes. Why? Because the student representatives from Google Cloud Platform decided that they would give sweet, sweet swag to those with the best memes throughout the hackathon. So began The Great BrickHack Meme Wars of 2018. The memes were actually super creative. What was interesting from an open source perspective was that (although no official licensing was involved), it was acceptable, even encouraged, to take someone else’s memes and do something different with it. The memes would sometime be a direct response to another. As the night went on the memes would become more and more meta, incorporating almost everyone else’s memes. It very much embodies what the creative commons and open source communities strive for; a positive environment to remix and share work to everyone’s benefit. Safe to say, anyone in the BrickHack 2018 Google Cloud Platform was incredibly entertained. Also my friends have now covered our apartment in Google Cloud Platform swag. It was a really great time.&lt;/p&gt;</content><author><name></name></author><summary type="html">I attended RIT’s main hackathon BrickHack this year. I did not hack on a project but instead worked on homework. I did however talk to a few people who were there. I saw some friends from RIT’s MAGIC Center who I stopped to talk to for a bit. I also talked to a friend of mine Stefan Marchhart, was working on a project where he used open source python libraries to visualize music on Philips Hue lights which are able to light up different colors. His project is on GitHub (sadly with no license). He talked to me and the group I was with about it during a 5 am Quiplash game break.</summary></entry><entry><title type="html">Quiz 2</title><link href="http://localhost:4000/hfoss/2018/04/25/quiz2.html" rel="alternate" type="text/html" title="Quiz 2" /><published>2018-04-25T01:00:00-04:00</published><updated>2018-04-25T01:00:00-04:00</updated><id>http://localhost:4000/hfoss/2018/04/25/quiz2</id><content type="html" xml:base="http://localhost:4000/hfoss/2018/04/25/quiz2.html">&lt;p&gt;HFOSS is not a lawyer, and this does not constitute legal advice.&lt;/p&gt;
 
@@ -102,94 +106,4 @@ D) You may not make changes to the work.
 
 &lt;p&gt;There are other methods for funding open source projects such as companies sponsoring someone or putting one of their salaried employees on an open source project, usually one of the maintainers. There has been an increase in companies encouraging some of their employees on company time. I think that this is an effective way of combating the issue of  having one maintainer and not having enough human resources. The author also mentioned foundations. I was specifically interested in the grants given out by the Mozilla foundation and Linux Foundation, who were both gathering funds to attempt to support infrastructure projects. I also think this is great as there are organizations that can research and attempt to figure out what is needed where the most and are large and notable, making it more likely for them to get funding from companies. Another method I found very interesting is through academic institutions. Research at universities can both start and support existing open source projects. This can help support the system by adding contributors and potentially supporting maintainers who teach or if the project can contribute to research. RIT’s open source community and FOSS minor are great instances of that. Our class, Humanitarian Free and Open Source Software, is a great way to get people introduced to open source software and encourage them to contribute. There is also a FOSS projects class where there are students working on, you guessed it, open source projects. By introducing open source to the curriculum they can increase the amount of contributors to open source.&lt;/p&gt;
 
-&lt;p&gt;The author also discusses how to help open source projects going forward. The main issues that were pointed out were raising awareness of the lack of support for our open source digital infrastructure, working with projects for improvement, and expanding the pool of contributors. I agree with the author’s assessment and believe that further campaigning to get companies involved and people aware of this problem. Overall, I feel this report is well written, especially for those who are not developers and is a good resource for those trying to raise awareness for this issue.&lt;/p&gt;</content><author><name></name></author><summary type="html">For this litreview, we continued from p77 of Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure by Nadia Eghbal published on July 14, 2016, and finished reading the report. The first part of the report focused on the problems of our deteriorating digital infrastructure made up of open source projects and why they were having them. This second part focuses more on how some open source projects are sustaining themselves and how we can better help to support them in the future.</summary></entry><entry><title type="html">Quiz1</title><link href="http://localhost:4000/hfoss/2018/03/07/quiz1.html" rel="alternate" type="text/html" title="Quiz1" /><published>2018-03-07T09:00:00-05:00</published><updated>2018-03-07T09:00:00-05:00</updated><id>http://localhost:4000/hfoss/2018/03/07/quiz1</id><content type="html" xml:base="http://localhost:4000/hfoss/2018/03/07/quiz1.html">&lt;p&gt;1) Expanding each acronym&lt;/p&gt;
-
-&lt;p&gt;1.1) IRC: Internet Relay Chat&lt;/p&gt;
-
-&lt;p&gt;1.2) FOSS: Free and Open Source Software&lt;/p&gt;
-
-&lt;p&gt;1.3) OLPC: One Laptop Per Child&lt;/p&gt;
-
-&lt;p&gt;1.4) PR: Pull Request&lt;/p&gt;
-
-&lt;p&gt;Bonus: GNU: GNU’s Not Unix&lt;/p&gt;
-
-&lt;p&gt;2) What is the name of the visrion control system we use in this course?
-git&lt;/p&gt;
-
-&lt;p&gt;Bonus: SVN: Subversion&lt;/p&gt;
-
-&lt;p&gt;3) Please give the one work name for the interface used in the OLPC computers &amp;amp; our VMs:
-Sugar&lt;/p&gt;
-
-&lt;p&gt;4) Bonus: What is the short, two-letter name for the OLPC computers used in the final project for this class?
-XO&lt;/p&gt;
-
-&lt;p&gt;5)We refer to sites that host source code as “forges.” What is the name for the primary forge used in this course?
-GitHub&lt;/p&gt;
-
-&lt;p&gt;6) Bonus: name the other forge we have used:
-GitLabs&lt;/p&gt;
-
-&lt;p&gt;7) Bonus: name another forge, one we have not used in this course.
-BitBucket&lt;/p&gt;
-
-&lt;h2 id=&quot;multiple-choice&quot;&gt;Multiple Choice&lt;/h2&gt;
-&lt;p&gt;8) The GitHub-specific term to describe the process in which, starting from one repository hosted at GitHub, one creates another repository, also hosted at GitHub, but under the control of a different user account.&lt;/p&gt;
-
-&lt;p&gt;d) fork&lt;/p&gt;
-
-&lt;p&gt;9) A collection of related commit objects&lt;/p&gt;
-
-&lt;p&gt;a) repository&lt;/p&gt;
-
-&lt;p&gt;10) A separate, but related, repository from which one may fetch or pull changes into one’s own working copy, and to which in some instances one might have permission to push changes from one’s own working copy.&lt;/p&gt;
-
-&lt;p&gt;c) remote&lt;/p&gt;
-
-&lt;p&gt;11) The general term in git for making an exact, working copy of another repository in which changes can be tracked separately between the two versions.&lt;/p&gt;
-
-&lt;p&gt;e) clone&lt;/p&gt;
-
-&lt;p&gt;12) A namespace in which one can track changes to a set of files within a given repository. This term applies both to the action and to the result of the action. Comparisons (‘diffs’ or patches) can be made between different such namespaces.&lt;/p&gt;
-
-&lt;p&gt;b) branch&lt;/p&gt;
-
-&lt;p&gt;13) Consider the following (+1 for each correct, -1 for each incorrect):&lt;/p&gt;
-
-&lt;p&gt;a) e59b627&lt;/p&gt;
-
-&lt;p&gt;&lt;del&gt;b) 451.867&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;c) cf153fb32&lt;/p&gt;
-
-&lt;p&gt;&lt;del&gt;d) dca_079&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;e) 9539807&lt;/p&gt;
-
-&lt;p&gt;&lt;del&gt;f) DB6A60A&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;del&gt;g) 614@1d4&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;h) be34fb47c60d&lt;/p&gt;
-
-&lt;p&gt;Looking just at the string of non-space characters to the right of the close-parenthesis …&lt;/p&gt;
-
-&lt;p&gt;List which of these could be a valid commit identifier?&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;a&lt;/li&gt;
-  &lt;li&gt;c&lt;/li&gt;
-  &lt;li&gt;e&lt;/li&gt;
-  &lt;li&gt;h&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;14) We’ve discussed “the four R’s” as a shorthand for the freedoms attached to software for it to be considered “free” or “open source”. List or describe each. (eg, if you can remember the “r” word you can just give that. If you cannot remember the term, but can describe the freedom involved, that also counts). Various “r” words are roughly synonymous for some of the freedoms, but we’re counting freedoms here, not synonyms so if you give two (or more) terms for the same freedom, it only counts once. For the purposes of this quiz, “remix” does not count as describing any of them. (1pt each)&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10.1) Run
-
-10.2) Read (the source)
-
-10.3) Adapt to your liking, being able to change the software to fit your needs.
-
-10.4) Redistribute
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">1) Expanding each acronym</summary></entry></feed>
+&lt;p&gt;The author also discusses how to help open source projects going forward. The main issues that were pointed out were raising awareness of the lack of support for our open source digital infrastructure, working with projects for improvement, and expanding the pool of contributors. I agree with the author’s assessment and believe that further campaigning to get companies involved and people aware of this problem. Overall, I feel this report is well written, especially for those who are not developers and is a good resource for those trying to raise awareness for this issue.&lt;/p&gt;</content><author><name></name></author><summary type="html">For this litreview, we continued from p77 of Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure by Nadia Eghbal published on July 14, 2016, and finished reading the report. The first part of the report focused on the problems of our deteriorating digital infrastructure made up of open source projects and why they were having them. This second part focuses more on how some open source projects are sustaining themselves and how we can better help to support them in the future.</summary></entry></feed>
