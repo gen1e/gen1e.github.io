@@ -1,9 +1,0 @@
----
-layout: post
-title:  "RITLUG TigerOS Talk"
-date:   2018-04-30 00:03:00 -0500
-categories: hfoss
----
-RITLUG's week 10 meeting on March 30th at 4:30 there was a presentation on TigerOS. I've been involved with TigerOS as one of the main designers since it was started fall 2016. I designed the TigerOS mascot and the graphical wallpapers. All of the designs were created using open source software. I also often do user experience related things as well. The team talked about what TigerOS is. It is a linux Fedora remix that is aimed at making it easier for RIT students to start using linux. The team also talked about the struggles we have encountered along the way. What was mentioned from a lot of the team was the lack of Fedora documentation on what was needed to make a remix. We are currently working on contributing to their documentation to help fill the gaps for those who come after us. We had a lot of trouble getting any kind of build system to work and is something we are still working on. There were also some difficulties getting the rpm up.
-
-As a designer I talked about my main challenge which was learning to use the open source graphic design software as it had a high learning curve. I also struggles getting the folder structure right for adding our mascot to the operating system because the structure is fairly complex. I had to figure out the file structure using an example I tore apart trying to replace the generic logos with our mascot. I also mentioned that being a designer for TigerOS has been and continues to be a very rewarding experience. I've learned a lot about open source practices but also got to really design something. I usually spend most of my time doing minimal design but mostly programming. It's been the biggest and highest impact design I've ever done. It's really great and I was grateful the team got the chance to show off our hard-work to the club.
